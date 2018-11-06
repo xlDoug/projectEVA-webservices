@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: ws-user
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: douglas.cunha
+Implementation-Vendor-Id: br.com.projecteva.webservices
+Build-Jdk: 1.8.0_191
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/ws-user
+Created-By: Maven Integration for Eclipse
+
